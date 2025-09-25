@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 📑 Academic Background and Research Focus 
 I graduated with a bachelor's degree from Beijing Normal University and am currently a Ph.D. candidate at the Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences, advised by Professors Xuzhi Li and Xue Wan.
 My research interest includes: 
 - Embodied Intelligence 🦾
@@ -30,7 +31,7 @@ My research interest includes:
 
 # 🎓 Educations 
 - *2021.09 - 2025.07*, <a href="https://english.bnu.edu.cn/"><img class="svg" src="/images/bnu-logo.svg" width="23pt"></a> Faculty of Arts and Sciences, Beijing Normal University, Zhuhai China
-- *2025.09 -        *, <a href="https://english.ucas.ac.cn/"><img class="svg" src="/images/ucas-logo.svg" width="20pt"></a> Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences, Beijing China 
+- *2025.09 - XXXX.XX*, <a href="https://english.ucas.ac.cn/"><img class="svg" src="/images/ucas-logo.svg" width="20pt"></a> Technology and Engineering Center for Space Utilization, Chinese Academy of Sciences, Beijing China 
  
 
 # 📝 Publications 
@@ -66,9 +67,9 @@ My research interest includes:
 
 
 
-# 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
+# 🏅 Competition
+- *2025.09*  
+- *2025.09* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
 
 # 💬 Conferences
