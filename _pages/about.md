@@ -76,8 +76,7 @@ My research interest includes:
 </div>
 </div>
 
-#🌐 Open-Source Projects
-
+# 🌐 Open-Source Projects
 **Open Source Summer 2025 (OSPP 2025)**  
 - 📝 **Project**: Add Prophet time-series analysis model for TDgpt in the time-series database TDengine  
 - 💻 **GitHub**: [https://github.com/Xundendong/TDengine](https://github.com/Xundendong/TDengine)
