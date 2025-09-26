@@ -22,6 +22,7 @@ I graduated with a bachelor's degree from Beijing Normal University and am curre
 My research interest includes: 
 - Embodied Intelligence 🦾
 - Robotics 🤖
+- Planetary exploration 🚀
 - Vision-Language Models 🧠
 - Reinforcement Learning 🎮
 - Simultaneous Localization and Mapping (SLAM) 🗺️
@@ -38,11 +39,11 @@ My research interest includes:
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal 2024</div><img src='images/sensorsj2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	`Xuandong Liang`,Yukun Long, Kaiyuan Xiang, Xiaoli Li, and Rui Min. Advancing Human–Computer Interaction:  Smartphone-Integrated POF Speckle Sensor  for Gesture and Identity Recognition. *IEEE Sensors Journal*. 2024, 24(19): 30058. (JCR:Q1; IF:4.3)  
+[[HTML]](https://ieeexplore.ieee.org/document/10623907) [[Preview]](https://ieeexplore.ieee.org/document/10623907) [[PDF]](https://ieeexplore.ieee.org/document/10623907)
 
 </div>
 </div>
