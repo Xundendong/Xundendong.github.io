@@ -58,24 +58,26 @@ My research interest includes:
 </div>
 
 # 🏅 Competition
-<div class='paper-box'>
-  <div class='paper-box-image' style="position: relative; display: inline-block;">
-    <!-- 标签 -->
-    <div class="badge" style="
+<div style="text-align: center;">
+  <!-- 让整个块居中 -->
+  <div style="position: relative; display: inline-block;">
+    <!-- 标签放在右上角 -->
+    <div style="
         position: absolute;
         top: 10px;
         right: 10px;
-        background-color: #004aad; /* 背景颜色可改 */
+        background-color: #004aad;
         color: white;
         padding: 4px 8px;
         font-weight: bold;
         border-radius: 4px;">
       CMI. 2025
     </div>
-    <!-- 图片 -->
-    <img src='images/cmi2025.png' alt="sym" width="60%">
+    <!-- 居中显示的图片 -->
+    <img src="images/cmi2025.png" alt="sym" width="60%">
   </div>
 </div>
+
 
 <div class='paper-box-text' markdown="1">
 
