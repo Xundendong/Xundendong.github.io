@@ -81,7 +81,7 @@ My research interest includes:
 - 📝 **Project**: Add Prophet time-series analysis model for TDgpt in the time-series database TDengine  
 - 💻 **GitHub**: [https://github.com/Xundendong/TDengine](https://github.com/Xundendong/TDengine)
 
-# 🏆 Other Honors & Awards
+# 🏆 Other Honors and Awards
 - *2022.12*, Second Prize, JingShi Scholarship, Beijing Normal University  
 - *2023.04*, Third Prize, Python Programming (College Group A), 14th Lanqiao Cup National Software and Information Technology Talent Competition, Guangdong Division  
 - *2023.12*, Third Prize, JingShi Scholarship, Beijing Normal University  
@@ -89,7 +89,6 @@ My research interest includes:
 - *2024.01*, Approved by Guangdong Provincial Science and Technology Innovation Strategic Special Fund Project (Guangdong Province Climbing Plan), Project: “Research on Portable Rural Health Monitoring Unit Based on Flexible Composite Optical Fiber”  
 - *2024.05*, Honorable Mention (H Award), 2024 Mathematical Contest in Modeling (MCM/ICM), USA  
 - *2024.05*, Principal Investigator, completed University Innovation and Entrepreneurship Project “Attention Enhancement Technology Based on Neurofeedback”  
-- *2024.06*, First Prize, “AI-Assisted Intelligent Gait Monitoring System,” 3rd “JingShi Cup” Extracurricular Academic Science and Technology Works Competition, Beijing Normal University Zhuhai Campus  
 - *2024.06*, First Prize, 2024 National College Physics Experiment (Innovation) Competition (School-Level), Beijing Normal University Zhuhai Campus  
 - *2024.12*, Third Prize, JingShi Scholarship, Beijing Normal University  
 - *2024.12*, First Prize, Academic Scholarship, Beijing Normal University  
