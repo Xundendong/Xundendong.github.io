@@ -75,15 +75,26 @@ My research interest includes:
 
 </div>
 </div>
-# 💬 Conferences
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+#🌐 Open-Source Projects
 
+**Open Source Summer 2025 (OSPP 2025)**  
+- 📝 **Project**: Add Prophet time-series analysis model for TDgpt in the time-series database TDengine  
+- 💻 **GitHub**: [https://github.com/Xundendong/TDengine](https://github.com/Xundendong/TDengine)
+
+# 🏆 Other Honors & Awards
+- *2022.12*, Second Prize, JingShi Scholarship, Beijing Normal University  
+- *2023.04*, Third Prize, Python Programming (College Group A), 14th Lanqiao Cup National Software and Information Technology Talent Competition, Guangdong Division  
+- *2023.12*, Third Prize, JingShi Scholarship, Beijing Normal University  
+- *2024.01*, First Prize, 2023 Guangdong University Student Mathematical Modeling Competition & National College Mathematical Modeling Competition (Guangdong Division)  
+- *2024.01*, Approved by Guangdong Provincial Science and Technology Innovation Strategic Special Fund Project (Guangdong Province Climbing Plan), Project: “Research on Portable Rural Health Monitoring Unit Based on Flexible Composite Optical Fiber”  
+- *2024.05*, Honorable Mention (H Award), 2024 Mathematical Contest in Modeling (MCM/ICM), USA  
+- *2024.05*, Principal Investigator, completed University Innovation and Entrepreneurship Project “Attention Enhancement Technology Based on Neurofeedback”  
+- *2024.06*, First Prize, “AI-Assisted Intelligent Gait Monitoring System,” 3rd “JingShi Cup” Extracurricular Academic Science and Technology Works Competition, Beijing Normal University Zhuhai Campus  
+- *2024.06*, First Prize, 2024 National College Physics Experiment (Innovation) Competition (School-Level), Beijing Normal University Zhuhai Campus  
+- *2024.12*, Third Prize, JingShi Scholarship, Beijing Normal University  
+- *2024.12*, First Prize, Academic Scholarship, Beijing Normal University  
+- *2024.12*, Second Prize, Competition Scholarship, Beijing Normal University  
 
 # 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
-  
+- *2023.09 - 2024.09*, Center for Cognition and Neuroergonomics at the State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Zhuhai China.
