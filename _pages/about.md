@@ -58,7 +58,25 @@ My research interest includes:
 </div>
 
 # 🏅 Competition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMI. 2025</div><img src='images/cmi2025.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image' style="position: relative; display: inline-block;">
+    <!-- 标签 -->
+    <div class="badge" style="
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: #004aad; /* 背景颜色可改 */
+        color: white;
+        padding: 4px 8px;
+        font-weight: bold;
+        border-radius: 4px;">
+      CMI. 2025
+    </div>
+    <!-- 图片 -->
+    <img src='images/cmi2025.png' alt="sym" width="60%">
+  </div>
+</div>
+
 <div class='paper-box-text' markdown="1">
 
 -	CMI - Detect Behavior with Sensor Data 2025. (Silver Medal 🥈)  This competition focuses on using data from movement, temperature, and proximity sensors on a wrist-worn device to distinguish body-focused repetitive behaviors from similar everyday actions. The goal is to develop predictive models that improve the accuracy and design of wearable BFRB-detection devices, enhancing tools for mental health support.
