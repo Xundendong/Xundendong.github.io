@@ -71,7 +71,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	NeurIPS - Ariel Data Challenge 2025. (Bronze Medal 🥉)  This year’s NeurIPS competition track focuses on developing models to clean up messy telescope data, enabling the detection of faint chemical traces in exoplanet atmospheres.
-[[Kaggle]](https://www.kaggle.com/competitions/neurips-2025-ariel-data-challenge/leaderboard)
+[[Kaggle]](https://www.kaggle.com/competitions/ariel-data-challenge-2025/leaderboard)
 
 </div>
 </div>
