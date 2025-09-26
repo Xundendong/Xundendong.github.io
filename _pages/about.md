@@ -58,7 +58,7 @@ My research interest includes:
 </div>
 
 # 🏅 Competition
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMI. 2025</div><img src='images/cmi2025.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div style="text-align: center;"><div class="badge">CMI. 2025</div><img src='images/cmi2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	CMI - Detect Behavior with Sensor Data 2025. (Silver Medal 🥈)  This competition focuses on using data from movement, temperature, and proximity sensors on a wrist-worn device to distinguish body-focused repetitive behaviors from similar everyday actions. The goal is to develop predictive models that improve the accuracy and design of wearable BFRB-detection devices, enhancing tools for mental health support.
@@ -67,7 +67,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS. 2025</div><img src='images/nipsadc2025.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS. 2025</div><img src='images/nipsadc2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	NeurIPS - Ariel Data Challenge 2025. (Bronze Medal 🥉)  This year’s NeurIPS competition track focuses on developing models to clean up messy telescope data, enabling the detection of faint chemical traces in exoplanet atmospheres.
