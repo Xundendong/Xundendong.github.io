@@ -57,6 +57,17 @@ My research interest includes:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv. 2025</div><img src='images/kuangjia.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xuandong Liang`, Lei Song. From Signatures to Latent Tokens: Transformer-based Anomaly
+Detection and Localization Framework in Multivariate Time Series. *arXiv preprint*. 2025.  
+[[arXiv]]() [[PDF]]()
+
+
+</div>
+</div>
+
 # 🏅 Competition
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CMI. 2025</div><img src='images/cmi2025.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
