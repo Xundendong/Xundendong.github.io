@@ -48,7 +48,7 @@ My research interest includes:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Letters. 2024</div><img src='images/sensorsl2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Letters. 2024</div><img src='images/sensorsl2024.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Xuandong Liang`, Yukun Long, Kaiyuan Xiang, Xiaoli Li, and Rui Min. Smartphone-Integrated POF Speckle Sensor for Heart Rate Variability Monitoring. *IEEE Sensors Letters*. 2024, 8(10): 6013404. (JCR:Q2; IF:2.2)  
